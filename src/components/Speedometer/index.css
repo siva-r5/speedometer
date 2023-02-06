@@ -1,0 +1,45 @@
+.container {
+  background-color: #07080c;
+  background-size: cover;
+  height: 100vh;
+  padding: 30px;
+  text-align: center;
+}
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 32px;
+  font-style: italic;
+  margin: 12px;
+}
+.image-size {
+  height: 240px;
+}
+.description {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 24px;
+  margin-bottom: 50px;
+}
+.paragraph {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 16px;
+  margin-bottom: 60px;
+}
+.speed-btn {
+  background-color: #0b69ff;
+  color: #ffffff;
+  margin-right: 10px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.speed-brake {
+  background-color: transparent;
+  color: #ffffff;
+  padding: 10px;
+  border-radius: 10px;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+}
